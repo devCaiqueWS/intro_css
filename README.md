@@ -2,7 +2,10 @@
 
 ## Seletor e Declaração
 
-O texto fora do das chaves é nomeado seletor EX.: 'body' {};
 
+Seletor: Quando usado a regra pode ser aplicada para mais de um elemento no
+desenvolvimento. EX.: `body {}`
 
-O elementos dentro das chaves ao todo é chamado de declaração EX.: {'font-family: Arial;'}
+Declaração: Qual estilização será utilizada para o seletor usado. EX.: `font-family: Arial ;` 
+    A declaração é separada por Propriedade e Valor
+
